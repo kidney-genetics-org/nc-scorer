@@ -58,6 +58,18 @@ npm run dev
 - Add logging for important operations
 - Update documentation if needed
 
+## Verification Commands
+
+Every modification must pass all checks before committing or submitting a pull request:
+
+```bash
+npm run lint         # ESLint check (0 errors)
+npm run typecheck    # Static typecheck via vue-tsc --noEmit (0 errors)
+npm run test:run     # Vitest unit and component test suites
+npm run build        # Production application and documentation build
+npm run validate     # Convenience runner for all 4 checks in sequence
+```
+
 ## Where to Contribute
 
 - **Bug fixes**: Check [issues](https://github.com/kidney-genetics-org/nc-scorer/issues)

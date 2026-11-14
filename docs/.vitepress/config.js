@@ -121,6 +121,7 @@ export default defineConfig({
         {
           text: 'Core Concepts',
           items: [
+            { text: 'Overview', link: '/guide/overview' },
             { text: 'Scoring System', link: '/guide/scoring-system' },
             { text: 'Architecture', link: '/guide/architecture' },
           ],

@@ -52,6 +52,8 @@ To cite the specific version of the **NC-Scorer web application** used for data 
 }
 ```
 
+_(Zenodo DOI archiving is configured via `.zenodo.json` and will be automatically minted on Zenodo upon integration activation)._
+
 ---
 
 ## GitHub "Cite this repository"
