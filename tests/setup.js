@@ -19,6 +19,9 @@ class IntersectionObserverMock {
 global.IntersectionObserver = global.IntersectionObserver || IntersectionObserverMock;
 window.IntersectionObserver = window.IntersectionObserver || IntersectionObserverMock;
 
+// happy-dom has no visualViewport; Vuetify >=3.10 overlays reference the bare global
+globalThis.visualViewport ??= window.visualViewport ?? null;
+
 // Polyfill window.matchMedia
 if (!window.matchMedia) {
   window.matchMedia = vi.fn().mockImplementation((query) => ({
