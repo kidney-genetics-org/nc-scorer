@@ -20,6 +20,13 @@ updates:
     commit-message:
       prefix: "chore"
       include: "scope"
+    ignore:
+      # vue-router 5 peer-requires vite >=7.3; repo is on vite 6
+      - dependency-name: "vue-router"
+        update-types: ["version-update:semver-major"]
+      # @eslint/js 10 peer-requires eslint 10; repo is on eslint 9
+      - dependency-name: "@eslint/js"
+        update-types: ["version-update:semver-major"]
     groups:
       npm-minor-patch:
         update-types:
