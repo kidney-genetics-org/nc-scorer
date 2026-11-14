@@ -60,10 +60,10 @@ npm run dev
 
 ## Where to Contribute
 
-- **Bug fixes**: Check [issues](https://github.com/halbritter-lab/nc-scorer/issues)
-- **Features**: Discuss in [GitHub Discussions](https://github.com/halbritter-lab/nc-scorer/discussions) first
+- **Bug fixes**: Check [issues](https://github.com/kidney-genetics-org/nc-scorer/issues)
+- **Features**: Discuss in [GitHub Discussions](https://github.com/kidney-genetics-org/nc-scorer/discussions) first
 - **Documentation**: Always welcome!
 
 ## Questions?
 
-Feel free to ask in the [Discussions](https://github.com/halbritter-lab/nc-scorer/discussions) section.
+Feel free to ask in the [Discussions](https://github.com/kidney-genetics-org/nc-scorer/discussions) section.

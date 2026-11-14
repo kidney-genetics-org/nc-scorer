@@ -9,7 +9,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/halbritter-lab/nc-scorer.git
+   git clone https://github.com/kidney-genetics-org/nc-scorer.git
    cd nc-scorer
    ```
 

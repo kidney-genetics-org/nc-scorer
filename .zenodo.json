@@ -48,7 +48,7 @@
   "access_right": "open",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/halbritter-lab/nc-scorer",
+      "identifier": "https://github.com/kidney-genetics-org/nc-scorer",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
@@ -58,7 +58,7 @@
       "scheme": "doi"
     },
     {
-      "identifier": "https://github.com/halbritter-lab/nephro_candidate_score",
+      "identifier": "https://github.com/kidney-genetics-org/nephro_candidate_score",
       "relation": "isSupplementTo",
       "scheme": "url"
     },

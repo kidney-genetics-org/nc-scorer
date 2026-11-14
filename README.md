@@ -1,11 +1,11 @@
 # NC-Scorer
 
-[![Tag](https://img.shields.io/github/v/tag/halbritter-lab/nc-scorer?sort=semver)](https://github.com/halbritter-lab/nc-scorer/tags)
-[![Release](https://img.shields.io/github/v/release/halbritter-lab/nc-scorer)](https://github.com/halbritter-lab/nc-scorer/releases)
+[![Tag](https://img.shields.io/github/v/tag/kidney-genetics-org/nc-scorer?sort=semver)](https://github.com/kidney-genetics-org/nc-scorer/tags)
+[![Release](https://img.shields.io/github/v/release/kidney-genetics-org/nc-scorer)](https://github.com/kidney-genetics-org/nc-scorer/releases)
 [![DOI](https://img.shields.io/badge/DOI-10.1101%2F2025.09.29.25336840-0072b2.svg)](https://doi.org/10.1101/2025.09.29.25336840)
-[![Zenodo](https://img.shields.io/badge/Zenodo-archive%20pending-lightgrey.svg)](https://github.com/halbritter-lab/nc-scorer/releases)
-[![GitHub Pages](https://github.com/halbritter-lab/nc-scorer/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/halbritter-lab/nc-scorer/actions/workflows/gh-pages.yml)
-[![Semantic Release](https://github.com/halbritter-lab/nc-scorer/actions/workflows/semantic-release.yml/badge.svg)](https://github.com/halbritter-lab/nc-scorer/actions/workflows/semantic-release.yml)
+[![Zenodo](https://img.shields.io/badge/Zenodo-archive%20pending-lightgrey.svg)](https://github.com/kidney-genetics-org/nc-scorer/releases)
+[![GitHub Pages](https://github.com/kidney-genetics-org/nc-scorer/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/kidney-genetics-org/nc-scorer/actions/workflows/gh-pages.yml)
+[![Semantic Release](https://github.com/kidney-genetics-org/nc-scorer/actions/workflows/semantic-release.yml/badge.svg)](https://github.com/kidney-genetics-org/nc-scorer/actions/workflows/semantic-release.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **NC-Scorer** (Nephro Candidate Scorer) is an open-source, web-based platform for standardized, automated prioritization of candidate genetic variants and novel disease gene discovery in patients with suspected inherited kidney disease (IKD) and chronic kidney disease of unknown etiology (CKDu).
@@ -82,7 +82,7 @@ If you use NC-Scorer or the Nephro Candidate Score framework in academic work, p
 > Rank N, Lukassen S, Anderegg MA, Eckardt KU, Halbritter JP, Popp B.\
 > **NC-Scorer: Automated Variant Prioritization in Suspected Genetic Kidney Disease (v3.7.0).**\
 > GitHub Release / Zenodo.\
-> Release Tag: [v3.7.0](https://github.com/halbritter-lab/nc-scorer/releases/tag/v3.7.0)\
+> Release Tag: [v3.7.0](https://github.com/kidney-genetics-org/nc-scorer/releases/tag/v3.7.0)\
 > URL: [https://nc-scorer.kidney-genetics.org/](https://nc-scorer.kidney-genetics.org/)
 
 ```bibtex
@@ -91,7 +91,7 @@ If you use NC-Scorer or the Nephro Candidate Score framework in academic work, p
   title        = {NC-Scorer: Automated Variant Prioritization in Suspected Genetic Kidney Disease},
   version      = {v3.7.0},
   year         = {2026},
-  howpublished = {\url{https://github.com/halbritter-lab/nc-scorer/releases/tag/v3.7.0}},
+  howpublished = {\url{https://github.com/kidney-genetics-org/nc-scorer/releases/tag/v3.7.0}},
   url          = {https://nc-scorer.kidney-genetics.org/},
   publisher    = {GitHub / Zenodo},
   license      = {MIT}
@@ -106,8 +106,8 @@ Machine-readable citation metadata is provided via [`CITATION.cff`](CITATION.cff
 
 ## 🔗 Related Repositories
 
-- [halbritter-lab/nephro_candidate_score](https://github.com/halbritter-lab/nephro_candidate_score) — N-GS feature preprocessing and N-VS machine learning model training pipelines.
-- [halbritter-lab/kidney-genetics-v1](https://github.com/halbritter-lab/kidney-genetics-v1) — Curated evidence base for genetic kidney diseases.
+- [kidney-genetics-org/nephro_candidate_score](https://github.com/kidney-genetics-org/nephro_candidate_score) — N-GS feature preprocessing and N-VS machine learning model training pipelines.
+- [kidney-genetics-org/kidney-genetics-v1](https://github.com/kidney-genetics-org/kidney-genetics-v1) — Curated evidence base for genetic kidney diseases.
 
 ---
 
@@ -117,7 +117,7 @@ Machine-readable citation metadata is provided via [`CITATION.cff`](CITATION.cff
 
 ```bash
 # Clone the repository
-git clone https://github.com/halbritter-lab/nc-scorer.git
+git clone https://github.com/kidney-genetics-org/nc-scorer.git
 cd nc-scorer
 
 # Install dependencies

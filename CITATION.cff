@@ -13,20 +13,20 @@ abstract: >-
 version: 3.7.0
 date-released: '2026-09-11'
 url: 'https://nc-scorer.kidney-genetics.org/'
-repository-code: 'https://github.com/halbritter-lab/nc-scorer'
+repository-code: 'https://github.com/kidney-genetics-org/nc-scorer'
 license: MIT
 identifiers:
   - type: doi
     value: '10.1101/2025.09.29.25336840'
     description: 'Primary research preprint on medRxiv'
   - type: url
-    value: 'https://github.com/halbritter-lab/nc-scorer/releases/tag/v3.7.0'
+    value: 'https://github.com/kidney-genetics-org/nc-scorer/releases/tag/v3.7.0'
     description: 'NC-Scorer v3.7.0 software release'
   - type: url
-    value: 'https://github.com/halbritter-lab/nc-scorer'
+    value: 'https://github.com/kidney-genetics-org/nc-scorer'
     description: 'NC-Scorer web application and CLI repository'
   - type: url
-    value: 'https://github.com/halbritter-lab/nephro_candidate_score'
+    value: 'https://github.com/kidney-genetics-org/nephro_candidate_score'
     description: 'Nephro Candidate Score feature acquisition, preprocessing, and model training repository'
 keywords:
   - kidney disease

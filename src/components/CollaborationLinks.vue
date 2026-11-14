@@ -59,7 +59,7 @@
       <v-list-item
         class="text-caption text-center"
         :title="`Learn more about collaboration platforms`"
-        href="https://github.com/halbritter-lab/nc-scorer/wiki/Collaboration-Platforms"
+        href="https://github.com/kidney-genetics-org/nc-scorer/wiki/Collaboration-Platforms"
         target="_blank"
         rel="noopener noreferrer"
         link

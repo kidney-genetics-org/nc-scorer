@@ -4,9 +4,9 @@ First off, thank you for considering contributing to NC-Scorer!
 
 ## Where do I go from here?
 
-If you've noticed a bug or have a feature request, [make one](https://github.com/halbritter-lab/nc-scorer/issues/new)! It's generally best if you get confirmation of your bug or approval for your feature request this way before starting to code.
+If you've noticed a bug or have a feature request, [make one](https://github.com/kidney-genetics-org/nc-scorer/issues/new)! It's generally best if you get confirmation of your bug or approval for your feature request this way before starting to code.
 
-If you have a general question, feel free to ask in the [Discussions section](https://github.com/halbritter-lab/nc-scorer/discussions).
+If you have a general question, feel free to ask in the [Discussions section](https://github.com/kidney-genetics-org/nc-scorer/discussions).
 
 ## Fork & create a branch
 
@@ -29,7 +29,7 @@ At this point, you're ready to make your changes! Feel free to ask for help; eve
 At this point, you should switch back to your master branch and make sure it's up to date with NC-Scorer's main branch:
 
 ```bash
-git remote add upstream git@github.com:halbritter-lab/nc-scorer.git
+git remote add upstream git@github.com:kidney-genetics-org/nc-scorer.git
 git checkout main
 git pull upstream main
 ```

@@ -67,4 +67,4 @@ Zero is valid segregation input. The **Denovo**, **Unknown**, and **Compound het
 2. **Use "Denovo"** for confirmed de novo variants (no segregation needed)
 3. **Interpret scores in context** with clinical judgment
 
-For detailed mathematical formulas and examples, see the [comprehensive scoring documentation](https://github.com/halbritter-lab/nc-scorer/wiki/Scoring-System).
+For detailed mathematical formulas and examples, see the [comprehensive scoring documentation](https://github.com/kidney-genetics-org/nc-scorer/wiki/Scoring-System).

@@ -12,7 +12,7 @@ NC-Scorer was developed by the [Halbritter Lab](https://mrc.charite.de/forschung
 
 ### Is NC-Scorer free to use?
 
-Yes, NC-Scorer is completely free and open-source. You can use it for academic and research purposes without any cost. The source code is available on [GitHub](https://github.com/halbritter-lab/nc-scorer) under an MIT license.
+Yes, NC-Scorer is completely free and open-source. You can use it for academic and research purposes without any cost. The source code is available on [GitHub](https://github.com/kidney-genetics-org/nc-scorer) under an MIT license.
 
 ## Using NC-Scorer
 
@@ -82,7 +82,7 @@ NC-Scorer is built with modern web technologies:
 
 ### Is the source code available?
 
-Yes, NC-Scorer is open-source. Visit our [GitHub repository](https://github.com/halbritter-lab/nc-scorer) to:
+Yes, NC-Scorer is open-source. Visit our [GitHub repository](https://github.com/kidney-genetics-org/nc-scorer) to:
 
 - View the source code
 - Report issues
@@ -143,21 +143,21 @@ If you use NC-Scorer in your research, please cite both our preprint publication
 2. **Software Release:**
    > NC-Scorer: Nephro Candidate Score Web Application and Framework (v3.5.4).
    >
-   > Release Tag: [v3.5.4](https://github.com/halbritter-lab/nc-scorer/releases/tag/v3.5.4).
+   > Release Tag: [v3.5.4](https://github.com/kidney-genetics-org/nc-scorer/releases/tag/v3.5.4).
    >
    > URL: [https://nc-scorer.kidney-genetics.org/](https://nc-scorer.kidney-genetics.org/)
 
-See our dedicated [Citation Guide](./guide/citation) and [`CITATION.cff`](https://github.com/halbritter-lab/nc-scorer/blob/main/CITATION.cff) for BibTeX snippets and GitHub citation export.
+See our dedicated [Citation Guide](./guide/citation) and [`CITATION.cff`](https://github.com/kidney-genetics-org/nc-scorer/blob/main/CITATION.cff) for BibTeX snippets and GitHub citation export.
 
 ### Are there related publications?
 
-The methodology behind NC-Scorer is based on the Nephro Candidate Score framework described in our medRxiv preprint ([doi:10.1101/2025.09.29.25336840](https://doi.org/10.1101/2025.09.29.25336840)). Additional methodological and machine learning training details are available in the companion [nephro_candidate_score](https://github.com/halbritter-lab/nephro_candidate_score) repository.
+The methodology behind NC-Scorer is based on the Nephro Candidate Score framework described in our medRxiv preprint ([doi:10.1101/2025.09.29.25336840](https://doi.org/10.1101/2025.09.29.25336840)). Additional methodological and machine learning training details are available in the companion [nephro_candidate_score](https://github.com/kidney-genetics-org/nephro_candidate_score) repository.
 
 ## Getting Help
 
 ### Where can I report bugs or request features?
 
-Please use our [GitHub issue tracker](https://github.com/halbritter-lab/nc-scorer/issues) to:
+Please use our [GitHub issue tracker](https://github.com/kidney-genetics-org/nc-scorer/issues) to:
 
 - Report bugs
 - Suggest new features
@@ -167,7 +167,7 @@ Before submitting, check if the issue has already been reported.
 
 ### How can I contribute?
 
-We welcome contributions! See our [Contributing Guide](./guide/contributing) or the [CONTRIBUTING.md](https://github.com/halbritter-lab/nc-scorer/blob/main/CONTRIBUTING.md) file for:
+We welcome contributions! See our [Contributing Guide](./guide/contributing) or the [CONTRIBUTING.md](https://github.com/kidney-genetics-org/nc-scorer/blob/main/CONTRIBUTING.md) file for:
 
 - Code contribution guidelines
 - Development setup instructions
