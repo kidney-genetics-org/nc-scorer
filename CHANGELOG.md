@@ -1,3 +1,10 @@
+## [3.7.1](https://github.com/kidney-genetics-org/nc-scorer/compare/v3.7.0...v3.7.1) (2026-11-14)
+
+
+### Bug Fixes
+
+* point repository links to kidney-genetics-org ([586f7e5](https://github.com/kidney-genetics-org/nc-scorer/commit/586f7e59e780f18bd978c3174c61c46bcaecf1a6))
+
 # [3.7.0](https://github.com/halbritter-lab/nc-scorer/compare/v3.6.0...v3.7.0) (2026-09-11)
 
 
