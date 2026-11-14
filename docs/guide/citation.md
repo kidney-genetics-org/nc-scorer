@@ -34,7 +34,7 @@ To cite the specific version of the **NC-Scorer web application** used for data 
 > Rank N, Lukassen S, Anderegg MA, Eckardt KU, Halbritter JP, Popp B.\
 > **NC-Scorer: Nephro Candidate Score Web Application and Framework (v3.7.0).**\
 > GitHub Release / Zenodo.\
-> Release Tag: [v3.7.0](https://github.com/halbritter-lab/nc-scorer/releases/tag/v3.7.0)\
+> Release Tag: [v3.7.0](https://github.com/kidney-genetics-org/nc-scorer/releases/tag/v3.7.0)\
 > URL: [https://nc-scorer.kidney-genetics.org/](https://nc-scorer.kidney-genetics.org/)
 
 ### BibTeX
@@ -45,20 +45,22 @@ To cite the specific version of the **NC-Scorer web application** used for data 
   title        = {NC-Scorer: Automated Variant Prioritization in Suspected Genetic Kidney Disease},
   version      = {v3.7.0},
   year         = {2026},
-  howpublished = {\url{https://github.com/halbritter-lab/nc-scorer/releases/tag/v3.7.0}},
+  howpublished = {\url{https://github.com/kidney-genetics-org/nc-scorer/releases/tag/v3.7.0}},
   url          = {https://nc-scorer.kidney-genetics.org/},
   publisher    = {GitHub / Zenodo},
   license      = {MIT}
 }
 ```
 
+_(Zenodo DOI archiving is configured via `.zenodo.json` and will be automatically minted on Zenodo upon integration activation)._
+
 ---
 
 ## GitHub "Cite this repository"
 
-Machine-readable citation metadata is provided in [`CITATION.cff`](https://github.com/halbritter-lab/nc-scorer/blob/main/CITATION.cff) according to the [Citation File Format (CFF 1.2.0)](https://citation-file-format.github.io/) specification.
+Machine-readable citation metadata is provided in [`CITATION.cff`](https://github.com/kidney-genetics-org/nc-scorer/blob/main/CITATION.cff) according to the [Citation File Format (CFF 1.2.0)](https://citation-file-format.github.io/) specification.
 
-On the [GitHub repository page](https://github.com/halbritter-lab/nc-scorer), click the **"Cite this repository"** button in the right sidebar to:
+On the [GitHub repository page](https://github.com/kidney-genetics-org/nc-scorer), click the **"Cite this repository"** button in the right sidebar to:
 
 - Copy formatted APA citation
 - Export formatted BibTeX entry
@@ -70,6 +72,6 @@ On the [GitHub repository page](https://github.com/halbritter-lab/nc-scorer), cl
 
 The complete N-CS computational ecosystem includes:
 
-- **Web Tool & Frontend**: [halbritter-lab/nc-scorer](https://github.com/halbritter-lab/nc-scorer) — Vue 3 web interface and batch processing engine.
-- **Machine Learning & Preprocessing**: [halbritter-lab/nephro_candidate_score](https://github.com/halbritter-lab/nephro_candidate_score) — N-GS feature extraction (R) and N-VS model training (Python).
-- **Kidney Genetics Evidence**: [halbritter-lab/kidney-genetics-v1](https://github.com/halbritter-lab/kidney-genetics-v1) — Underlying curated gene-disease relationships.
+- **Web Tool & Frontend**: [kidney-genetics-org/nc-scorer](https://github.com/kidney-genetics-org/nc-scorer) — Vue 3 web interface and batch processing engine.
+- **Machine Learning & Preprocessing**: [kidney-genetics-org/nephro_candidate_score](https://github.com/kidney-genetics-org/nephro_candidate_score) — N-GS feature extraction (R) and N-VS model training (Python).
+- **Kidney Genetics Evidence**: [kidney-genetics-org/kidney-genetics-v1](https://github.com/kidney-genetics-org/kidney-genetics-v1) — Underlying curated gene-disease relationships.

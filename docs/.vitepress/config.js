@@ -121,6 +121,7 @@ export default defineConfig({
         {
           text: 'Core Concepts',
           items: [
+            { text: 'Overview', link: '/guide/overview' },
             { text: 'Scoring System', link: '/guide/scoring-system' },
             { text: 'Architecture', link: '/guide/architecture' },
           ],
@@ -149,7 +150,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/halbritter-lab/nc-scorer' },
+      { icon: 'github', link: 'https://github.com/kidney-genetics-org/nc-scorer' },
       { icon: 'twitter', link: 'https://twitter.com/kidney_genetics' },
     ],
 
@@ -171,7 +172,7 @@ export default defineConfig({
 
     editLink: {
       pattern:
-        'https://github.com/halbritter-lab/nc-scorer/edit/main/docs/:path',
+        'https://github.com/kidney-genetics-org/nc-scorer/edit/main/docs/:path',
       text: 'Edit this page on GitHub',
     },
 

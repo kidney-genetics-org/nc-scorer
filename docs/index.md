@@ -14,7 +14,7 @@ hero:
       link: /guide/usage
     - theme: alt
       text: View on GitHub
-      link: https://github.com/halbritter-lab/nc-scorer
+      link: https://github.com/kidney-genetics-org/nc-scorer
 
 features:
   - title: Understand each score

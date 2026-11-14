@@ -7,12 +7,12 @@
     },
     {
       "icon": "mdi-github",
-      "href": "https://github.com/halbritter-lab/nc-scorer",
+      "href": "https://github.com/kidney-genetics-org/nc-scorer",
       "text": "GitHub"
     },
     {
       "icon": "mdi-certificate",
-      "href": "https://github.com/halbritter-lab/nc-scorer/blob/main/LICENSE",
+      "href": "https://github.com/kidney-genetics-org/nc-scorer/blob/main/LICENSE",
       "text": "License"
     }
   ]

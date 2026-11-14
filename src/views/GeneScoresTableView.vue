@@ -10,7 +10,7 @@
         <p class="source-note">
           Data source:
           <a
-            href="https://github.com/halbritter-lab/nephro_candidate_score"
+            href="https://github.com/kidney-genetics-org/nephro_candidate_score"
             target="_blank"
             rel="noopener noreferrer"
             >Nephro Candidate Score</a
