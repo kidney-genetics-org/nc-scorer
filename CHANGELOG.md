@@ -1,3 +1,12 @@
+## [3.7.2](https://github.com/kidney-genetics-org/nc-scorer/compare/v3.7.1...v3.7.2) (2026-11-14)
+
+
+### Bug Fixes
+
+* **deps:** bump dependencies to resolve open security alerts ([06db933](https://github.com/kidney-genetics-org/nc-scorer/commit/06db933b6c8673581af13237d2e79f96f410749f))
+* **deps:** use spec-keyed overrides so npm 10 and 11 resolve the same lock ([380f412](https://github.com/kidney-genetics-org/nc-scorer/commit/380f41287804edf93886601d7cba192a9d468602))
+* **release:** sync CITATION.cff version on each release ([7a67217](https://github.com/kidney-genetics-org/nc-scorer/commit/7a6721785ac10c3baf9f00c9cd0322b24e366352))
+
 ## [3.7.1](https://github.com/kidney-genetics-org/nc-scorer/compare/v3.7.0...v3.7.1) (2026-11-14)
 
 
