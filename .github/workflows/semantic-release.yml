@@ -31,7 +31,7 @@ jobs:
           # persist-credentials: false # Generally okay with GITHUB_TOKEN
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4 # <-- UPDATE: Use v4
+        uses: actions/setup-node@v7 # <-- UPDATE: Use v4
         with:
           node-version: '22.x'
           cache: 'npm'
