@@ -109,17 +109,17 @@ describe('Citation & Research Best Practices Metadata', () => {
   });
 
   describe('Documentation & README Citation Consistency', () => {
-    it('README.md includes Zenodo badge, preprint badge, and citation section without broken 404s', () => {
+    it('README.md includes release and preprint badges and a citation section without broken 404s', () => {
       const readme = fs.readFileSync(readmePath, 'utf8');
-      expect(readme).toContain('Zenodo');
+      expect(readme).toContain('.zenodo.json');
       expect(readme).toContain(PREPRINT_DOI);
-      expect(readme).toContain('github/v/tag');
       expect(readme).toContain('github/v/release');
       expect(readme).not.toContain('zenodo.org/badge/latestdoi');
       expect(readme).not.toContain('zenodo.org/badge/745544900');
-      expect(readme).toContain('## 📚 Citation');
+      expect(readme).toContain('## Citing');
       expect(readme).toContain('@article{rank2025nephro');
-      expect(readme).toContain('@software{nc_scorer');
+      // Versioned software citation lives in docs/guide/citation.md (checked below)
+      expect(readme).toContain('docs/guide/citation.md');
       expect(readme).toContain('CITATION.cff');
     });
 
