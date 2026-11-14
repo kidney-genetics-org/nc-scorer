@@ -21,6 +21,7 @@
     "test:coverage": "vitest run --coverage",
     "validate": "npm run lint && npm run typecheck && npm run test:run && npm run build",
     "semantic-release": "semantic-release",
+    "version": "node scripts/sync-citation-version.js",
     "commit": "git-cz",
     "prepare": "husky install"
   },
@@ -34,10 +35,8 @@
     "vitepress": {
       "vite": "$vite"
     },
-    "js-beautify": {
-      "glob": "^14.0.6",
-      "minimatch": "^11.0.8"
-    }
+    "glob@^13": "^14.0.6",
+    "minimatch@^10": "^11.0.8"
   },
   "dependencies": {
     "@mdi/js": "^7.4.47",
