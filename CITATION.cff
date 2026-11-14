@@ -10,8 +10,8 @@ abstract: >-
   (CKDu). It combines a machine learning-based Nephro Gene Score (N-GS), a
   Nephro Variant Score (N-VS), and a heuristic Inheritance Score into a unified
   Nephro Candidate Score (NCS) on a 0-10 scale.
-version: 3.7.0
-date-released: '2026-09-11'
+version: 3.7.1
+date-released: '2026-11-14'
 url: 'https://nc-scorer.kidney-genetics.org/'
 repository-code: 'https://github.com/kidney-genetics-org/nc-scorer'
 license: MIT
